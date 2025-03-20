@@ -22,7 +22,7 @@ echo Migration completed successfully!
 echo.
 echo Next steps:
 echo 1. Update your .env file to use MongoDB Atlas:
-echo    MONGO_URI=mongodb+srv://janithrulz2001:password1234@scms.j4l2f.mongodb.net/smart-campus?retryWrites=true^&w=majority
+echo    MONGO_URI=
 echo 2. Restart your application
 echo.
 pause 
